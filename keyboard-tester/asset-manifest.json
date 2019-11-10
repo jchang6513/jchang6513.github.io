@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "./keyboard-tester/static/css/main.08de1f98.chunk.css",
+    "main.js": "./keyboard-tester/static/js/main.ceaaad59.chunk.js",
+    "main.js.map": "./keyboard-tester/static/js/main.ceaaad59.chunk.js.map",
+    "runtime~main.js": "./keyboard-tester/static/js/runtime~main.29f364db.js",
+    "runtime~main.js.map": "./keyboard-tester/static/js/runtime~main.29f364db.js.map",
+    "static/js/2.4a313aef.chunk.js": "./keyboard-tester/static/js/2.4a313aef.chunk.js",
+    "static/js/2.4a313aef.chunk.js.map": "./keyboard-tester/static/js/2.4a313aef.chunk.js.map",
+    "../keyboard-tester.html": "./keyboard-tester/../keyboard-tester.html",
+    "precache-manifest.ebc86e919abf64d8fb8d58b976e71179.js": "./keyboard-tester/precache-manifest.ebc86e919abf64d8fb8d58b976e71179.js",
+    "service-worker.js": "./keyboard-tester/service-worker.js",
+    "static/css/main.08de1f98.chunk.css.map": "./keyboard-tester/static/css/main.08de1f98.chunk.css.map"
+  }
+}
