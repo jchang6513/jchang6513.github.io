@@ -1,4 +1,19 @@
 {
+  "name": "Scrum Cards",
+  "short_name": "ScrumCards",
+  "icons": [
+    {
+      "src": "pingpong.png",
+      "type": "image/png",
+      "sizes": "144x144"
+    }
+  ],
+  "description": "A scrum cards web app made from redbooth's cards",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#1C2022",
+  "theme_color": "#1C2022",
   "files": {
     "main.css": "./scrum-cards/static/css/main.fea1f3a8.chunk.css",
     "main.js": "./scrum-cards/static/js/main.9f46abaa.chunk.js",
