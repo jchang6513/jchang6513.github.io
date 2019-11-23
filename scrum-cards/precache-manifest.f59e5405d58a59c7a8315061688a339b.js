@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "24a757466392dbaf7f33daccd88933c4",
+    "revision": "705fdea78fab46f4f3a682f0231e3a2f",
     "url": "./scrum-cards/../scrum-cards.html"
   },
   {
