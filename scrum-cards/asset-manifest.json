@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "./scrum-cards/static/css/main.fea1f3a8.chunk.css",
+    "main.js": "./scrum-cards/static/js/main.9f46abaa.chunk.js",
+    "main.js.map": "./scrum-cards/static/js/main.9f46abaa.chunk.js.map",
+    "runtime~main.js": "./scrum-cards/static/js/runtime~main.4c756283.js",
+    "runtime~main.js.map": "./scrum-cards/static/js/runtime~main.4c756283.js.map",
+    "static/js/2.92d48c4e.chunk.js": "./scrum-cards/static/js/2.92d48c4e.chunk.js",
+    "static/js/2.92d48c4e.chunk.js.map": "./scrum-cards/static/js/2.92d48c4e.chunk.js.map",
+    "../scrum-cards.html": "./scrum-cards/../scrum-cards.html",
+    "precache-manifest.0e485fd08a88b42237d8f616a90785f8.js": "./scrum-cards/precache-manifest.0e485fd08a88b42237d8f616a90785f8.js",
+    "service-worker.js": "./scrum-cards/service-worker.js",
+    "static/css/main.fea1f3a8.chunk.css.map": "./scrum-cards/static/css/main.fea1f3a8.chunk.css.map",
+    "static/media/Cover - option 2.png": "./scrum-cards/static/media/Cover - option 2.9cd9de53.png",
+    "static/media/planning poker-03.png": "./scrum-cards/static/media/planning poker-03.e9ab5629.png",
+    "static/media/planning poker_An arm and a leg.png": "./scrum-cards/static/media/planning poker_An arm and a leg.98d6a8ae.png",
+    "static/media/planning poker_Don't put all .png": "./scrum-cards/static/media/planning poker_Don't put all .ff325f82.png",
+    "static/media/planning poker_Eat a brownie.png": "./scrum-cards/static/media/planning poker_Eat a brownie.ff0919ae.png",
+    "static/media/planning poker_Here be dragons.png": "./scrum-cards/static/media/planning poker_Here be dragons.457cfbe6.png",
+    "static/media/planning poker_It ain't rocket science.png": "./scrum-cards/static/media/planning poker_It ain't rocket science.ce68cf66.png",
+    "static/media/planning poker_Low hanging fruit.png": "./scrum-cards/static/media/planning poker_Low hanging fruit.fa1d10e7.png",
+    "static/media/planning poker_Meterse en un berenjenal.png": "./scrum-cards/static/media/planning poker_Meterse en un berenjenal.a04b591d.png",
+    "static/media/planning poker_Monster task.png": "./scrum-cards/static/media/planning poker_Monster task.c67fcd80.png",
+    "static/media/planning poker_Piece of cake.png": "./scrum-cards/static/media/planning poker_Piece of cake.fd9db373.png",
+    "static/media/planning poker_Squeaking by.png": "./scrum-cards/static/media/planning poker_Squeaking by.93edc024.png",
+    "static/media/planning poker_When pigs fly.png": "./scrum-cards/static/media/planning poker_When pigs fly.0b39bb50.png"
+  }
+}
