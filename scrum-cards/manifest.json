@@ -9,7 +9,7 @@
     }
   ],
   "description": "A scrum cards web app made from redbooth's cards",
-  "start_url": "/",
+  "start_url": "/scrum-cards",
   "scope": "/",
   "display": "standalone",
   "background_color": "#1C2022",
