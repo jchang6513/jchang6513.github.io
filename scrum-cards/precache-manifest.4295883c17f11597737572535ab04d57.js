@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "705fdea78fab46f4f3a682f0231e3a2f",
+    "revision": "f5ff852671f7a09bbfaf12bb123e0fee",
     "url": "./scrum-cards/../scrum-cards.html"
   },
   {
-    "revision": "83c74f6986f573143834",
-    "url": "./scrum-cards/static/css/main.fea1f3a8.chunk.css"
+    "revision": "f7f6b4b36e772e439f14",
+    "url": "./scrum-cards/static/css/main.3a9c6438.chunk.css"
   },
   {
     "revision": "6d5ebc1c9a019f95fddd",
     "url": "./scrum-cards/static/js/2.92d48c4e.chunk.js"
   },
   {
-    "revision": "83c74f6986f573143834",
-    "url": "./scrum-cards/static/js/main.9f46abaa.chunk.js"
+    "revision": "f7f6b4b36e772e439f14",
+    "url": "./scrum-cards/static/js/main.399aec1d.chunk.js"
   },
   {
     "revision": "802333ebf77e527f0687",

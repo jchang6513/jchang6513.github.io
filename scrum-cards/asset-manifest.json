@@ -1,31 +1,16 @@
 {
-  "name": "Scrum Cards",
-  "short_name": "ScrumCards",
-  "icons": [
-    {
-      "src": "pingpong.png",
-      "type": "image/png",
-      "sizes": "144x144"
-    }
-  ],
-  "description": "A scrum cards web app made from redbooth's cards",
-  "start_url": "/scrum-cards",
-  "scope": "/",
-  "display": "standalone",
-  "background_color": "#1C2022",
-  "theme_color": "#1C2022",
   "files": {
-    "main.css": "./scrum-cards/static/css/main.fea1f3a8.chunk.css",
-    "main.js": "./scrum-cards/static/js/main.9f46abaa.chunk.js",
-    "main.js.map": "./scrum-cards/static/js/main.9f46abaa.chunk.js.map",
+    "main.css": "./scrum-cards/static/css/main.3a9c6438.chunk.css",
+    "main.js": "./scrum-cards/static/js/main.399aec1d.chunk.js",
+    "main.js.map": "./scrum-cards/static/js/main.399aec1d.chunk.js.map",
     "runtime~main.js": "./scrum-cards/static/js/runtime~main.4c756283.js",
     "runtime~main.js.map": "./scrum-cards/static/js/runtime~main.4c756283.js.map",
     "static/js/2.92d48c4e.chunk.js": "./scrum-cards/static/js/2.92d48c4e.chunk.js",
     "static/js/2.92d48c4e.chunk.js.map": "./scrum-cards/static/js/2.92d48c4e.chunk.js.map",
     "../scrum-cards.html": "./scrum-cards/../scrum-cards.html",
-    "precache-manifest.f59e5405d58a59c7a8315061688a339b.js": "./scrum-cards/precache-manifest.f59e5405d58a59c7a8315061688a339b.js",
+    "precache-manifest.4295883c17f11597737572535ab04d57.js": "./scrum-cards/precache-manifest.4295883c17f11597737572535ab04d57.js",
     "service-worker.js": "./scrum-cards/service-worker.js",
-    "static/css/main.fea1f3a8.chunk.css.map": "./scrum-cards/static/css/main.fea1f3a8.chunk.css.map",
+    "static/css/main.3a9c6438.chunk.css.map": "./scrum-cards/static/css/main.3a9c6438.chunk.css.map",
     "static/media/Cover - option 2.png": "./scrum-cards/static/media/Cover - option 2.9cd9de53.png",
     "static/media/planning poker-03.png": "./scrum-cards/static/media/planning poker-03.e9ab5629.png",
     "static/media/planning poker_An arm and a leg.png": "./scrum-cards/static/media/planning poker_An arm and a leg.98d6a8ae.png",
