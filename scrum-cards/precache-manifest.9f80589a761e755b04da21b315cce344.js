@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "af4ac0830d3d6f2fb466a071e42d0f9c",
+    "revision": "c64815ad002dc2cf144412e56ccce739",
     "url": "./scrum-cards/../scrum-cards.html"
   },
   {
-    "revision": "fc0f3b8d01567f52d2de",
+    "revision": "09a4b8d5bd88b139d16b",
     "url": "./scrum-cards/static/css/main.64470287.chunk.css"
   },
   {
-    "revision": "6d5ebc1c9a019f95fddd",
-    "url": "./scrum-cards/static/js/2.92d48c4e.chunk.js"
+    "revision": "bf7d66e10f6eedbecd8c",
+    "url": "./scrum-cards/static/js/2.71ab30ba.chunk.js"
   },
   {
-    "revision": "fc0f3b8d01567f52d2de",
-    "url": "./scrum-cards/static/js/main.b6c9b12a.chunk.js"
+    "revision": "09a4b8d5bd88b139d16b",
+    "url": "./scrum-cards/static/js/main.882e6f3f.chunk.js"
   },
   {
     "revision": "802333ebf77e527f0687",
@@ -22,6 +22,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "9cd9de53e26d23b6fcb7d4b972f95ef7",
     "url": "./scrum-cards/static/media/Cover - option 2.9cd9de53.png"
+  },
+  {
+    "revision": "201bb2c56f60b9d9139cb42e8d89f69c",
+    "url": "./scrum-cards/static/media/favicon.ico"
   },
   {
     "revision": "e9ab56291cbac7436ec0ad0e02d1df4b",
