@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "./scrum-cards/precache-manifest.4295883c17f11597737572535ab04d57.js"
+  "./scrum-cards/precache-manifest.589fa1036a81cd44d8723b1a602d9c7e.js"
 );
 
 self.addEventListener('message', (event) => {
